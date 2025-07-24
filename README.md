@@ -37,6 +37,6 @@ You can find IPL datasets on:
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/IPL-Data-Analysis.git
+git clone https://khushidk23/your-username/IPL-Data-Analysis.git
 cd IPL-Data-Analysis
 pip install -r requirements.txt
